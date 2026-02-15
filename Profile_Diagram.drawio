@@ -1,9 +1,26 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.1.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.4.0">
   <diagram name="Seite-1" id="dEMPmOkEPkJ3ifEwqgbE">
-    <mxGraphModel>
+    <mxGraphModel dx="1018" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="qGnxN-UYrG3hnqrJeIGh-5" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=80;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Element&lt;/b&gt;&lt;div&gt;{author=&quot;Adrian Hansen&quot;}&lt;/div&gt;&lt;div&gt;{version=&quot;1.2&quot;}&lt;/div&gt;" vertex="1">
+          <mxGeometry height="132" width="210" x="570" y="140" as="geometry">
+            <mxRectangle height="60" width="180" x="570" y="140" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qGnxN-UYrG3hnqrJeIGh-6" parent="qGnxN-UYrG3hnqrJeIGh-5" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ field: type" vertex="1">
+          <mxGeometry height="26" width="210" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qGnxN-UYrG3hnqrJeIGh-7" parent="qGnxN-UYrG3hnqrJeIGh-5" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ field: type" vertex="1">
+          <mxGeometry height="26" width="210" y="106" as="geometry" />
+        </mxCell>
+        <mxCell id="qGnxN-UYrG3hnqrJeIGh-14" edge="1" parent="1" source="qGnxN-UYrG3hnqrJeIGh-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="qGnxN-UYrG3hnqrJeIGh-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qGnxN-UYrG3hnqrJeIGh-13" parent="1" style="shape=note;size=20;whiteSpace=wrap;html=1;" value="Every element must have a version and a author." vertex="1">
+          <mxGeometry height="100" width="270" x="220" y="156" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
