@@ -27,9 +27,6 @@
         <mxCell id="8xuDqQke0MqTt0Uvt99e-11" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Priority" vertex="1">
           <mxGeometry height="50" width="140" x="130" y="362" as="geometry" />
         </mxCell>
-        <mxCell id="8xuDqQke0MqTt0Uvt99e-12" parent="8xuDqQke0MqTt0Uvt99e-11" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ field: type" vertex="1">
-          <mxGeometry height="24" width="140" y="26" as="geometry" />
-        </mxCell>
         <mxCell id="8xuDqQke0MqTt0Uvt99e-15" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=52;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Epic" vertex="1">
           <mxGeometry height="52" width="100" x="314" y="272" as="geometry" />
         </mxCell>
