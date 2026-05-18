@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Seite-1" id="R6-v1aDcocMYiMxjVYwv">
-    <mxGraphModel dx="1341" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1258" dy="729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,11 +19,11 @@
         <mxCell id="BQJd017-id7U0LXvTSkS-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Gemeldet&amp;nbsp;" vertex="1">
           <mxGeometry height="60" width="120" x="190" y="245" as="geometry" />
         </mxCell>
-        <mxCell id="BQJd017-id7U0LXvTSkS-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Tickets / Epics erstellen&lt;/b&gt;" vertex="1">
-          <mxGeometry height="30" width="215" x="20" y="180" as="geometry" />
+        <mxCell id="BQJd017-id7U0LXvTSkS-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Tickets / Epics erstellen&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="215" x="30" y="185" as="geometry" />
         </mxCell>
         <mxCell id="BQJd017-id7U0LXvTSkS-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Incident P3-P1&lt;/font&gt;&lt;/b&gt;" vertex="1">
-          <mxGeometry height="30" width="215" x="40" y="520" as="geometry" />
+          <mxGeometry height="30" width="135" x="30" y="520" as="geometry" />
         </mxCell>
         <mxCell id="BQJd017-id7U0LXvTSkS-30" edge="1" parent="1" source="BQJd017-id7U0LXvTSkS-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;" value="">
           <mxGeometry relative="1" as="geometry">
@@ -238,10 +238,13 @@
             <mxPoint x="150" y="615" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BQJd017-id7U0LXvTSkS-72" connectable="0" parent="BQJd017-id7U0LXvTSkS-70" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Incedent P3-P1&amp;nbsp;&lt;div&gt;gemeldet&lt;/div&gt;" vertex="1">
+        <mxCell id="BQJd017-id7U0LXvTSkS-72" connectable="0" parent="BQJd017-id7U0LXvTSkS-70" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Incident P3-P1&amp;nbsp;&lt;div&gt;gemeldet&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.1704" as="geometry">
             <mxPoint x="-2" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="BQJd017-id7U0LXvTSkS-86" edge="1" parent="1" source="BQJd017-id7U0LXvTSkS-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="BQJd017-id7U0LXvTSkS-85" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BQJd017-id7U0LXvTSkS-71" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Gemeldet&amp;nbsp;" vertex="1">
           <mxGeometry height="60" width="120" x="190" y="585" as="geometry" />
@@ -274,6 +277,9 @@
         </mxCell>
         <mxCell id="BQJd017-id7U0LXvTSkS-77" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Feature Type" vertex="1">
           <mxGeometry height="60" width="120" x="850" y="185" as="geometry" />
+        </mxCell>
+        <mxCell id="BQJd017-id7U0LXvTSkS-85" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Ticket_in_Backlog" vertex="1">
+          <mxGeometry height="60" width="120" x="450" y="585" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
